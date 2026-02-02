@@ -1,0 +1,12 @@
+{
+  "name": "tomy-ale-proyecto",
+  "version": "1.0.0",
+  "description": "Plataforma tecnológica minimalista para gestión multimedia",
+  "main": "index.html",
+  "scripts": {
+    "start": "python3 -m http.server 8000"
+  },
+  "keywords": ["minimalista", "tecnologico", "multimedia"],
+  "author": "Tomy Ale",
+  "license": "MIT"
+}
